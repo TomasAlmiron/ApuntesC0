@@ -1,2 +1,2 @@
-# ApuntesC_0
+# ApuntesS_0
 Todos los apuntes de la materia
